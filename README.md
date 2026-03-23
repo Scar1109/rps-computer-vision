@@ -146,13 +146,6 @@ A **majority-vote buffer** (last 7 frames) smooths out single-frame errors, prov
 
 ---
 
-## 📄 License
-
-Open source under the [MIT License](LICENSE).
-
----
-
 <p align="center">
-  Built with ❤️ using Python, OpenCV & MediaPipe<br>
-  <sub>A portfolio project by <a href="https://github.com/yourusername">Your Name</a></sub>
+  Built with ❤️ using Python<br>
 </p>
